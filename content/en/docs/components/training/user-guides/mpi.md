@@ -83,7 +83,7 @@ kubectl apply -f examples/v2beta1/tensorflow-benchmarks/tensorflow-benchmarks.ya
 
 ## Scheduling Policy
 
-The MPI Operator supports the [gang-scheduling](/docs/components/training/job-scheduling#running-jobs-with-gang-scheduling).
+The MPI Operator supports the [gang-scheduling](/docs/components/training/user-guides/job-scheduling#running-jobs-with-gang-scheduling).
 If you want to modify the PodGroup parameters, you can configure in the following:
 
 ```diff
