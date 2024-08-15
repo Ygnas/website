@@ -36,7 +36,6 @@ package = "netlify-plugin-checklinks"
 
     "public/docs/components/katib/",
     "public/docs/components/kfserving/",
-    "public/docs/components/training/",
 
     "public/docs/distributions/gke/",
     "public/docs/gke/deploy/oauth-setup",
